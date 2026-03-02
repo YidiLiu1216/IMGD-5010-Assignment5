@@ -10,7 +10,8 @@ I am planning to implement Boids flocking algorithm in this assignment.
 
 The result is successed , the triangles behavior really like flock, and they success to avoid obstacle. 
 ## Full Code
-'''
+
+```
 agents=[];
 agentnum=200;
 minspeed=1;
@@ -206,4 +207,4 @@ class Agent{
   }
 
 }
-'''
+```
